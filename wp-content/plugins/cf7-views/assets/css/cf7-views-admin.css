@@ -1,0 +1,22 @@
+#views-container{
+    font-size:16px;
+    color: #4b5966;
+    line-height: 1.5;
+}
+.viewHide{
+    display:none;
+}
+.post-type-cf7-views #postbox-container-2 #cf7-views-metabox .ui-sortable-handle{
+display: none;
+}
+.post-type-cf7-views #postbox-container-2 #cf7-views-metabox .inside{
+	padding:0px;
+}
+#cf7-views-metabox{
+background: #f1f1f1;
+border: 0px;
+box-shadow: none;
+}
+#cf7-views-metabox .handle-actions{
+	display:none;
+}

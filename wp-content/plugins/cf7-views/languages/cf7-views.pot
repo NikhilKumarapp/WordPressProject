@@ -1,0 +1,184 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"Blank WordPress Pot "
+"v1.0.0\n"
+"POT-Creation-Date: "
+"2020-12-11 13:56+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Your Team "
+"<translations@example."
+"com>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"2.4.2\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+"X-Poedit-"
+"SearchPathExcluded-0: "
+"Views\n"
+
+#: inc/admin/class-cf7-views-metabox.php:15
+msgid "View Settings"
+msgstr ""
+
+#: inc/admin/class-cf7-views-posttype.php:13
+msgctxt ""
+"post type general name"
+msgid "CF7 Views"
+msgstr ""
+
+#: inc/admin/class-cf7-views-posttype.php:14
+msgctxt ""
+"post type singular name"
+msgid "CF7 View"
+msgstr ""
+
+#: inc/admin/class-cf7-views-posttype.php:15
+msgctxt "admin menu"
+msgid "CF7 Views"
+msgstr ""
+
+#: inc/admin/class-cf7-views-posttype.php:16
+msgctxt ""
+"add new on admin bar"
+msgid "CF7 Views"
+msgstr ""
+
+#: inc/admin/class-cf7-views-posttype.php:17
+msgctxt "book"
+msgid "Add View"
+msgstr ""
+
+#: inc/admin/class-cf7-views-posttype.php:18
+msgid "Add New View"
+msgstr ""
+
+#: inc/admin/class-cf7-views-posttype.php:19
+msgid "New View"
+msgstr ""
+
+#: inc/admin/class-cf7-views-posttype.php:20
+msgid "Edit View"
+msgstr ""
+
+#: inc/admin/class-cf7-views-posttype.php:21
+msgid "View CF7 "
+msgstr ""
+
+#: inc/admin/class-cf7-views-posttype.php:22
+msgid "All CF7 Views"
+msgstr ""
+
+#: inc/admin/class-cf7-views-posttype.php:23
+msgid "Search Views"
+msgstr ""
+
+#: inc/admin/class-cf7-views-posttype.php:24
+msgid "Parent Views:"
+msgstr ""
+
+#: inc/admin/class-cf7-views-posttype.php:25
+msgid "No view found."
+msgstr ""
+
+#: inc/admin/class-cf7-views-posttype.php:26
+msgid ""
+"No view found in Trash."
+msgstr ""
+
+#: inc/admin/class-cf7-views-posttype.php:31
+msgid "Description."
+msgstr ""
+
+#: inc/admin/class-cf7-views-posttype.php:51
+msgid "Shortcode"
+msgstr ""
+
+#: inc/admin/class-cf7-views-upgrade-to-pro-page.php:11
+msgid "Get Pro"
+msgstr ""
+
+#: inc/admin/class-cf7-views-upgrade-to-pro-page.php:12
+msgid ""
+"<strong style=\"color: "
+"#FCB214;\">Get Pro</"
+"strong>"
+msgstr ""
+
+#: inc/admin/review/class-cf7-views-review.php:218
+#, php-format
+msgid ""
+"<p>Hi %s! </p>\n"
+"\t\t\t<p>You've been "
+"using "
+msgstr ""
+
+#: inc/admin/review/class-cf7-views-review.php:224
+msgid "1 week"
+msgstr ""
+
+#: inc/admin/review/class-cf7-views-review.php:232
+msgid "1 month"
+msgstr ""
+
+#: inc/admin/review/class-cf7-views-review.php:240
+msgid "3 months"
+msgstr ""
+
+#: inc/admin/review/class-cf7-views-review.php:400
+msgid ""
+"Rate us 5 stars on "
+"wordpress.org"
+msgstr ""
+
+#: inc/admin/review/class-cf7-views-review.php:405
+msgid "Nope, maybe later"
+msgstr ""
+
+#: inc/admin/review/class-cf7-views-review.php:410
+msgid "I already did"
+msgstr ""
+
+#: inc/class-cf7-views-shortcode.php:266
+#, php-format
+msgid ""
+"Displaying %1$s - %2$s "
+"of %3$s"
+msgstr ""
